@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b0feb26e03bb9534296d0ca236848adf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - infoTexGen: {fileID: 7200000, guid: c6bbf99e5edb32d41b103202a8f10653, type: 3}
+  - playShader: {fileID: 4800000, guid: a770891cbf22ac54faa880bd365a6caf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

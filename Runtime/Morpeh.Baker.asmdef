@@ -1,0 +1,15 @@
+{
+    "name": "Morpeh.Baker",
+    "references": [
+        "GUID:3377deebfb0acde45876d12c6e3d27cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
